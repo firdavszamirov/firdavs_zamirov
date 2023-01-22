@@ -1,4 +1,4 @@
-![Firdavs Zamirov Banner](https://raw.githubusercontent.com/fringer2423/fringer2423/master/assets/banner.png)
+![Firdavs Zamirov Banner](https://raw.githubusercontent.com/firdavszamirov/firdavszamirov/master/assets/banner.png)
 
 <img alt="Night Coding" src="./assets/wave.gif" width='40' align="left"/><h2>Hey there! I'm Vladislav</h2>
 
